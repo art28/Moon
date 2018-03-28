@@ -1,5 +1,5 @@
 _site/
 .sass-cache/
 .jekyll-metadata
-._drafts/
-._original_posts/
+_drafts/
+_original_posts/
