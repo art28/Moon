@@ -7,7 +7,7 @@ tags: [Linear Algebra]
 comments: true
 ---
 
-본 포스트는 https://hadrienj.github.io/posts/Deep-Learning-Book-Series-Introduction/ 을 기본으로 만들어졌습니다. 완벽히 마스터 한 후에 쓴 글이 아니고, 저 또한 공부하며 쓰는 번역에 가깝기 때문에 서로 질문해가며 이해를 도울 수 있으면 좋겠습니다.
+본 포스트는 [Deep-Learning-Book-Series-Introduction](https://hadrienj.github.io/posts/Deep-Learning-Book-Series-Introduction/) 을 기본으로 만들어졌습니다. 완벽히 마스터 한 후에 쓴 글이 아니고, 저 또한 공부하며 쓰는 번역에 가깝기 때문에 서로 질문해가며 이해를 도울 수 있으면 좋겠습니다.
 {: .notice}
 
 딥러닝 입문서로 가장 추천을 받는 책 중에 [the Deep Learning Book](http://www.deeplearningbook.org/)이 있습니다. 저도 작년부터 틈틈히 보고 있는데 정작 딥러닝 파트가 나오기 전의 선형대수학과 통계학, 그리고 기존 머신러닝 방법론들에서 사고가 마비되어 앞장을 왔다 갔다 하며 진도가 쉽게 나가지 못하고 있습니다. 아무래도 문돌이 + 영어텍스트가 겹쳐서, 자괴감을 많이 느꼇는데요. 다행히 원어민들도 이 책의 선형대수 부분이 어렵다는 의견이 상당 수 존재했나 봅니다...!
