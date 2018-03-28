@@ -11,7 +11,7 @@ locale:             ko_KR
 url:
 
 # Jekyll
-permalink:          /:title/
+permalink:          /blog/:title/
 markdown:           kramdown
 highlighter:        rouge
 kramdown:
