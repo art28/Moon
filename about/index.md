@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page_about
 title: JooHyun Jo(Art)
 date: 2016-03-21
 comments: false
