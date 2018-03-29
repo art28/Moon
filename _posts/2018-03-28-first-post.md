@@ -20,9 +20,9 @@ comments: true
   - 서울대학교 김선구 교수님의 "계약경제학" 수업 기반
 
 ### 추후 작성하고자 하는 카테고리는 다음과 같습니다
-- [Deep-Learning-Papers-Reading-Roadmap](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap)
+- [Deep-Learning-Papers-Reading-Roadmap](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap){:target="_ blank"}
 
-### 포스트의 변동 사항은 따로 기록되지 않으며, 필요한 경우 [github](https://github.com/art28/art28.github.io)의 commit들을 쫓아가시면 됩니다.
+### 포스트의 변동 사항은 따로 기록되지 않으며, 필요한 경우 [github](https://github.com/art28/art28.github.io){:target="_ blank"}의 commit들을 쫓아가시면 됩니다.
 
 
 <center><h2>화이팅...!</h2></center>
