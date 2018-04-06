@@ -2,7 +2,7 @@
 layout: post
 title: "Contract Examples"
 date: "2018-04-01 23:49:43 +0900"
-excerpt: "무엇을 공부할까요?"
+excerpt: "계약의 경제적 표현"
 tags: [Moral Hazard]
 comments: true
 ---
@@ -92,3 +92,6 @@ Debt 계약은 금융 대출 상품들에 많이 적용됩니다. Agent가 유�
 이번 포스트에서는 실생활에서 나타나는 계약을 간단한 수식으로 정의해보았습니다. 재밌는 것은 위에서 든 계약과 사례의 매칭의 이유가 증명되지 않은 경우가 많다는 것입니다. 예를 들어, Tournament Contract는 다양한 회사에서 승진제도로서 나타나는데, 왜 하필 이 계약 형태가 주류가 되었는지는 제대로 설명되지 않고 있으며 이를 증명하는 것만으로도 하나의 연구주제입니다.
 
 다음 포스팅에서는 이제 Principal과 Agent의 상호 작용을 모델링하고, 본격적으로 경제적인 최적선택들을 탐구해볼 것입니다. 이 분야는 수학적인, Technical Problem Solving이 많이 등장하는데, 수학적인 해석이 익숙하지 않고 꺼려지는 분들을 위해 직관적인 설명을 위주로 하고 수학적인 부분은 따로 표시하여 설명할 생각입니다.
+
+<br/>
+<h4 style="text-align:right"> <a href="/blog/moral-hazard-2"> 다음 포스트 : The Standard Principal-Agent Model</a></h4>
