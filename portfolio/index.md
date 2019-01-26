@@ -43,7 +43,6 @@ comments: false
 <br/>
 ## Studies
 ---
----
 
 <figure class="third">
   <a href="http://www.e-ifs.com/"><img class="img-project" src="/assets/img/portfolio/ifs.png"></a>
