@@ -131,6 +131,13 @@ img {
     margin-left: 1em;
     margin-top: 0;
 }
+.img-project {
+		max-width: 200px;
+		padding-right: 15px;
+		padding-top: 20px;
+		padding-bottom: 10px;
+}
+
 figure {
   margin: 0;
   padding-top: 10px;
@@ -168,7 +175,7 @@ figure {
   }
 }
 svg:not(:root) {
-  overflow: hidden; 
+  overflow: hidden;
 }
 
 // keyboard tag

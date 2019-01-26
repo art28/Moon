@@ -1,11 +1,17 @@
 ---
 layout: page_about
-title: JooHyun Jo(Art)
+title: JooHyun Jo(Alan)
 date: 2016-03-21
 comments: false
 ---
 
-Hi, my name is **JooHyun Jo**, student of Seoul National University. You can also call me **Alan**, which is my English name or **Art28**, nickname. My main interest is Machine learning, especially **deeplearning**.
+<figure class="third">
+  <img src="">
+  <img src="/assets/img/me.jpg">
+  <img src="">
+</figure>
+
+Hi, my name is **JooHyun Jo**, student of Seoul National University. You can also call me **Alan**, which is my English nickname. My main interest is Machine learning, especially **deeplearning**.
 
 #### Main Interest
 - **Deep Learning** (NLP, Vision, RL)
@@ -23,23 +29,27 @@ Hi, my name is **JooHyun Jo**, student of Seoul National University. You can als
 
 ---
 ## Education
-<h3 style="color:blue"> Seoul National University (2011.03 ~ 2018.08) </h3>
-
-- Major in *Economics* and *Computer Science Engineering*
-
----
-## Projects
-<h3> <a style="color:orange; text-decoration: none" href="https://bi.snu.ac.kr/Robocup/2018/index.html">Robocup@Home 2018 SSPL (2017.09 ~2018.07)</a></h3>
-{% capture images %}
-  /assets/img/pepper.jpg
-{% endcapture %}
-{% include gallery images=images caption="" cols=2 %}
-
+<figure class="half">
+  <h3 style="color:blue"> Seoul National University (2011.03 ~ 2018.08) </h3>
+  <img src="/assets/img/snu.png">
+</figure>
+Major in *Economics* and *Computer Science Engineering*(Cum laude)
 
 ---
-## Copyrights
-[Moon Jekyll Theme](https://github.com/TaylanTatli/Moon)
 
-[favicon](http://www.iconarchive.com/show/outline-icons-by-iconsmind/Cat-icon.html)
+
+## ETC
+<h3 style="color:black"> Korean augmentation to the united states army(KATUSA)(2013.10 ~ 2015.06) </h3>
+Served in *Property Book Office(PBO)* of *Special operations command korea(SOCKOR)*, Camp Kim.
+
+
+
+<br/><br/><br/>
+---
+---
+### Copyrights
+*[Moon Jekyll Theme](https://github.com/TaylanTatli/Moon)*
+
+*[favicon](http://www.iconarchive.com/show/outline-icons-by-iconsmind/Cat-icon.html)*
 
 ---
