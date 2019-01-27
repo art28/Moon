@@ -25,7 +25,7 @@ comments: false
   <h3> <a style="color:green; text-decoration: none" href="https://www.youtube.com/watch?v=uTGALQZ-n4w">
   사람의 말을 알아듣는 강아지 ClovaDog(2017.09 ~ 2017.12)</a></h3>
   <h5>#TENSORFLOW #KERAS #ANDROID #DJANGO #CLOVA-API #AWS #GIT #BITBUCKET-PIPELINE</h5>
-  <p>서울대학교 "창의적통합설계" 수업에서 네이버 Clova 팀의 의뢰로, 서울대 평생교육원의 인공지능 강좌에 사용될 교육용 어플리케이션 제작을 3인 팀으로 맡아 수행하였습니다. 기술적으로는 인공지능 프레임워크를 모바일 어플리케이션을 통해 배포하는데 성공하였고, 기획적으로는 연구용이 아닌 실제 클라이언트의 의뢰를 받아 지속적인 피드백을 통해 상업적인 목적으로 기능과 UI/UX를 구성해가는 과정을 경험했습니다.</p>
+  <p>서울대학교 "창의적통합설계" 수업에서 네이버 Clova 팀의 의뢰로, 서울대 평생교육원의 인공지능 강좌에 사용될 교육용 어플리케이션 제작을 맡아 수행하였습니다. 기술적으로는 인공지능 프레임워크를 모바일 어플리케이션을 통해 배포하는데 성공하였고, 기획적으로는 연구용이 아닌, 실제 클라이언트와의 지속적인 피드백을 통해 상업적인 목적으로 기능과 UI/UX를 구성해가는 과정을 경험했습니다.</p>
   </div>
 </figure>
 
@@ -36,7 +36,7 @@ comments: false
   <div>
   <h3> <a style="color:orange; text-decoration: none" href="https://bi.snu.ac.kr/Robocup/2018/index.html">Robocup@Home 2018 SSPL (2017.09 ~2018.07)</a></h3>
   <h5>#PEPPER #NAOQI #ROS #PYTHON #DEEPLEARNING #GOOGLECLOUD</h5>
-  <p>로봇 분야는 아직까지도 전통적인 rule-based 플래닝, 조작, 행동이 대부분을 차지하고 있습니다. 서울대 바이오지능연구실 Team Aupair는 사람과 직접 소통하는 데 중점을 둔 Robocup SSPL에서 SOTA 딥러닝 솔루션들을 적용하는 방법론을 도입했습니다. 소프트뱅크 Pepper로봇에 YOLO, Openpose, Densecap, Google STT, Dialogflow등의 오픈소스 앱들을 탑재하고 동작시키는 데 성공하였습니다.</p>
+  <p>로봇 분야는 아직까지도 전통적인 rule-based 플래닝, 조작, 행동이 대부분을 차지하고 있습니다. 서울대 바이오지능연구실 Team Aupair는 사람과 직접 소통하는 데 중점을 둔 Robocup SSPL에서, 딥러닝 SOTA 솔루션들을 적용하는 새로운 방법론을 도입했습니다. 소프트뱅크 Pepper로봇에 YOLO, Openpose, Densecap, Google STT, Dialogflow등의 오픈소스 앱들을 탑재하고 동작시키는 데 성공하였습니다.</p>
   </div>
 </figure>
 

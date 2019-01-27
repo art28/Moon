@@ -22,8 +22,8 @@ Hi, my name is **JooHyun Jo**, student of Seoul National University. You can als
 - **Language**: Python, C++, Java, HTML, Javascript, C, Kotlin ...
 - **Web**: ReactJS
 - **Server**: Django(Rest framework)
-- **Mobile**: Android, React-native,
-- **ML**: Keras, Tensorflow, Scikit-learn
+- **Mobile**: Android, React-native
+- **ML**: Tensorflow, Keras, Pytroch, Scikit-learn
 - **Data Science**: Numpy, Pandas, Seaborn ...
 
 
